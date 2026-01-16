@@ -1,2 +1,2 @@
-# DTZ-Trainer
+# dtz-trainer
 
